@@ -1,0 +1,23 @@
+Package: veracrypt
+Version: 1.26.29
+Architecture: aarch64
+Maintainer: Infiniti151
+Installed-Size: 3521
+Depends: libfuse3, libpcsclite
+Filename: pool/main/v/veracrypt/veracrypt_1.26.29_aarch64.deb
+Size: 979084
+MD5sum: 3008c19e9a4edacce019d887bbdd9744
+SHA1: 80a01813c89cc81de03a3824c3194be695cab6ad
+SHA256: 3565709af8d535f23e76c2f54415d8ef2fca04073b39c86780b5c43202d984f1
+Section: utils
+Priority: optional
+Homepage: https://github.com/veracrypt/VeraCrypt
+Description: VeraCrypt disk encryption manager for Termux
+ VeraCrypt is a free, open-source disk encryption software based on
+ TrueCrypt 7.1a, providing strong on-the-fly encryption.
+ .
+ This package provides a custom cross-compiled CLI version of VeraCrypt
+ adapted for the Android Termux environment. It includes built-in path
+ override for device-mapper (dmsetup) and FUSE3 integration designed
+ to work within Android sandbox constraints.
+
