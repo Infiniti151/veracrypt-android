@@ -1,0 +1,13 @@
+services:
+  builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/workspace:z
+      - veracrypt-cache:/workspace/cache
+    environment:
+      - GENERATE_APT_REPO=${GENERATE_APT_REPO:-false}
+
+volumes:
+  veracrypt-cache:
