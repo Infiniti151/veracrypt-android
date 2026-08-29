@@ -424,3 +424,14 @@ See the original [VeraCrypt](https://github.com/veracrypt/VeraCrypt) project for
 
 The Android build and packaging files in this repository are provided separately from the upstream VeraCrypt source.
 
+### Modifications
+
+This build applies small Termux-specific patches to the upstream VeraCrypt source:
+
+- Adds `<unistd.h>` to `SCardLoader.cpp` for `access()` and `F_OK`.
+- Overrides PCSCLite library path in `SCardLoader.cpp` for Termux.
+- Hardcodes the Termux `dmsetup` path in `CoreLinux.cpp`.
+
+These changes are minimal and only intended to make VeraCrypt functional on Android/Termux. All other source code remains unchanged.
+
+
