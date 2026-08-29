@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: aarch64
 Codename: stable
 Components: main
-Date: Sat, 29 Aug 2026 10:30:53 +0000
+Date: Sat, 29 Aug 2026 10:51:08 +0000
 Description: VeraCrypt APT repository for Termux Android ARM64
 Label: veracrypt-android
 Origin: veracrypt-android
 Suite: stable
 MD5Sum:
- 7d0cddf2013f9179f02c87d0b7b8d627              223 Release
- 2629011692cc1a1188f4ee0d2b9bd666              897 main/binary-aarch64/Packages
- 15b6b96d30856c8e94c2ba5a4bf5235a              600 main/binary-aarch64/Packages.gz
+ 3092f446d6c1c3aced848e105b3b629a              223 Release
+ 50c6571133a318c1b103d216a03d9b90              897 main/binary-aarch64/Packages
+ fa55ca4b3f54402c0fa9fb386774c3b5              597 main/binary-aarch64/Packages.gz
 SHA1:
- cde4663ecc214c6d7a209fe6eb816c6f59636b3b              223 Release
- c2744a04637dfb378a0e8895bb7d1b54441fae5d              897 main/binary-aarch64/Packages
- 292d93d323149c7883bca2cac6b79124d24b76cb              600 main/binary-aarch64/Packages.gz
+ c0f9cb93184475f9cb8d8ec18aa801a22d553e7f              223 Release
+ 25527fd15e47187f6505bfd926998d7f5f1f0053              897 main/binary-aarch64/Packages
+ 703f43727a3bd1ae5980a86ef320bec2f8b5804f              597 main/binary-aarch64/Packages.gz
 SHA256:
- 2028f798b5f42dcf892e7c36c91dba0ea9e682c06a40a58d3c268c30c1fcee06              223 Release
- 314d2a0750841806069faf1232c24dc3ce29b9ff26c4f7c0e6d37bdcabcf669a              897 main/binary-aarch64/Packages
- 648740e70b58d98cd65f8e9ddd8cf9bc9eb24e36dde98de19751d6b3d00f8906              600 main/binary-aarch64/Packages.gz
+ 456622961c5ce0c3a7fabe27336c6f15a18a39a23308ee73ecc863ee9371fd89              223 Release
+ bdd4dd882705d92ce568325273b91cc04ebcd503a71523735434482f949c72c8              897 main/binary-aarch64/Packages
+ 596b7cf47c5340c1e319f96f65409038ff5a98c728fa52019aeaa1791dc735ad              597 main/binary-aarch64/Packages.gz
 SHA512:
- 7d69f3d63b610667012840c8fd235b703ce81f5a00c469c027e3e13c7606ed2ee7572fc5c0606232ef598e46a184c6cd1e92be8fdb2d703314c066b2fe16f667              223 Release
- dbc8043818b17576014586ce470aa5fa38c8064f8a4d673d91ddf2054703690d88cc0f07dc7de274ab73feb260d709747cae8bb5eefdb57f7213713221da1302              897 main/binary-aarch64/Packages
- 08264b3a657e745a31200636cbe4ec48d8fe7f30b9078d018317f81dd205fd4d18f90e3a7d03be64d0cc0aa578d7b2c3dae81f8a612db30617c0f81747b11db9              600 main/binary-aarch64/Packages.gz
+ 94a092b8a428b257fa9e26e9b0f4f5b7cbcbacb1007de753265610a629497167c1d77fe79d8ca5276fa92dfad8042fb0213e8d8b8d433490ce8bd32116d8650a              223 Release
+ b9424489c9d7310324cbfa25cbb40e13efc5fdb6cfd7a6a4c8823c116d780eb0c4c197c4751156158e42e65e070ce8ebb249f44eefdc0a28e4d69c77efd93755              897 main/binary-aarch64/Packages
+ fe117d5b6da7f439118850fed903ab3564b46552b3d8f778f35879729e72ff5e96d8f02a380282eddf78fe998194c411a1e3b92646c9f6a567345d32a0de3675              597 main/binary-aarch64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQR35qUoHfVTjbEqmPKzFJh1ior4pQUCapK03gAKCRCzFJh1ior4
-pZ+UAP48WrwLPi9YwMiQvAtafQ051zpgnpvO0pbpWniWw+HMiQD/TFdQFJ9eAygL
-+gq4GuvfiBhrsE7vUVmcW19FZrs6mg0=
-=yzqA
+iHUEARYKAB0WIQR35qUoHfVTjbEqmPKzFJh1ior4pQUCapK5nAAKCRCzFJh1ior4
+pTBJAP9k0VKmIIn9CCOCyVBxT22rHLrvg9x1shDIu2vubrYlnQEAmbRYjHmOrEaG
+GWTOyHq/6QNmUadQz8FJoUKZSA/7HwI=
+=Ee1t
 -----END PGP SIGNATURE-----
