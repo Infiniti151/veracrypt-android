@@ -10,6 +10,10 @@ It was created because VeraCrypt is not currently available as a package in the 
 
 This project provides a convenient way to install and update VeraCrypt through a dedicated APT repository for Termux.
 
+> [!NOTE]
+> This is an unofficial build of VeraCrypt for Termux/Android.
+> VeraCrypt is a trademark of IDRIX. This project is not affiliated with or endorsed by IDRIX.
+
 ## 📋 Requirements
 
 * Android device with an **ARM64 (`aarch64`)** CPU
