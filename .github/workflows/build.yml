@@ -1,4 +1,4 @@
-name: Build & Publish Dislocker Termux APT Repo
+name: Build & Publish VeraCrypt Termux APT Repo
 
 on:
   workflow_dispatch:
