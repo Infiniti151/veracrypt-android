@@ -278,9 +278,13 @@ rm -rf "$PKG_STAGE"
 mkdir -p \
     "$PKG_STAGE/$TERMUX_PREFIX/bin" \
     "$PKG_STAGE/$TERMUX_PREFIX/lib" \
+    "$PKG_STAGE/$TERMUX_PREFIX/share/doc/veracrypt" \
     "$PKG_STAGE/DEBIAN" \
     "$APT_BINARY_DIR" \
     "$APT_POOL_DIR"
+
+# Copy the license into the package
+cp "$WORK_DIR/VeraCrypt/License.txt" "$PKG_STAGE/$TERMUX_PREFIX/share/doc/veracrypt/copyright"
 
 # ---------------------------------------------------------------------------
 # Copy binaries
