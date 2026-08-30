@@ -319,7 +319,7 @@ Version: $VERACRYPT_VERSION
 Architecture: $ARCH
 Maintainer: Infiniti151
 Installed-Size: $INSTALLED_SIZE
-Depends: libfuse3, libpcsclite
+Depends: libfuse3, libpcsclite, libdevmapper
 Section: utils
 Priority: optional
 Homepage: https://github.com/veracrypt/VeraCrypt
