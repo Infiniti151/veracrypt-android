@@ -3,12 +3,12 @@ Version: 1.26.29
 Architecture: aarch64
 Maintainer: Infiniti151
 Installed-Size: 3561
-Depends: libfuse3, libpcsclite
+Depends: libfuse3, libpcsclite, libdevmapper
 Filename: pool/main/v/veracrypt/veracrypt_1.26.29_aarch64.deb
-Size: 979860
-MD5sum: 3e739b28fb45c63fcbf9f9ffd6ee7bb5
-SHA1: a19d94b7137a16868c7ddff89566890a653a194a
-SHA256: cbaccfb26a2b3c1bf7d51a76e1577e2c1a895e7019154204fc46d719f6b65315
+Size: 979068
+MD5sum: cf08cee92d4a091ad01f98155b9fa7b5
+SHA1: f7db3361400ebdbba144b433b5ef47f41f1df8d0
+SHA256: a78cb781e5b0a5daac104da5c7f444e467d9b513311853711106c465adfdb9ff
 Section: utils
 Priority: optional
 Homepage: https://github.com/veracrypt/VeraCrypt

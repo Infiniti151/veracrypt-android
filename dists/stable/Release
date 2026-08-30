@@ -1,24 +1,24 @@
 Architectures: aarch64
 Codename: stable
 Components: main
-Date: Sat, 29 Aug 2026 10:51:08 +0000
+Date: Sun, 30 Aug 2026 06:52:53 +0000
 Description: VeraCrypt APT repository for Termux Android ARM64
 Label: veracrypt-android
 Origin: veracrypt-android
 Suite: stable
 MD5Sum:
- 3092f446d6c1c3aced848e105b3b629a              223 Release
- 50c6571133a318c1b103d216a03d9b90              897 main/binary-aarch64/Packages
- fa55ca4b3f54402c0fa9fb386774c3b5              597 main/binary-aarch64/Packages.gz
+ 071389d4433e39a6b067c86f8c7100c4              223 Release
+ 338346fe32c4aea50c3ee50821ec27c4              911 main/binary-aarch64/Packages
+ ad8259d53ff67f1e794d432da6179254              606 main/binary-aarch64/Packages.gz
 SHA1:
- c0f9cb93184475f9cb8d8ec18aa801a22d553e7f              223 Release
- 25527fd15e47187f6505bfd926998d7f5f1f0053              897 main/binary-aarch64/Packages
- 703f43727a3bd1ae5980a86ef320bec2f8b5804f              597 main/binary-aarch64/Packages.gz
+ 9b1c7bf2b8420f245e85d6cb6089ac233c502176              223 Release
+ 6cd256e20f4fa1d39b565c02bde6fabd8ebdc797              911 main/binary-aarch64/Packages
+ 10edd75565c3012c39efcbd609add4640f8e744c              606 main/binary-aarch64/Packages.gz
 SHA256:
- 456622961c5ce0c3a7fabe27336c6f15a18a39a23308ee73ecc863ee9371fd89              223 Release
- bdd4dd882705d92ce568325273b91cc04ebcd503a71523735434482f949c72c8              897 main/binary-aarch64/Packages
- 596b7cf47c5340c1e319f96f65409038ff5a98c728fa52019aeaa1791dc735ad              597 main/binary-aarch64/Packages.gz
+ 2212e6f9c92022749007e15251a228995825ed4e8002c04be602a24173841b3b              223 Release
+ e3ed8ff96046d0cb13e8c47c87f80edcc5bfce3b628b731fe337a07a1c243dc5              911 main/binary-aarch64/Packages
+ eacaee526730dae17aeefd06990fe2c3107edc700b68e63f5be5a62f76671b3a              606 main/binary-aarch64/Packages.gz
 SHA512:
- 94a092b8a428b257fa9e26e9b0f4f5b7cbcbacb1007de753265610a629497167c1d77fe79d8ca5276fa92dfad8042fb0213e8d8b8d433490ce8bd32116d8650a              223 Release
- b9424489c9d7310324cbfa25cbb40e13efc5fdb6cfd7a6a4c8823c116d780eb0c4c197c4751156158e42e65e070ce8ebb249f44eefdc0a28e4d69c77efd93755              897 main/binary-aarch64/Packages
- fe117d5b6da7f439118850fed903ab3564b46552b3d8f778f35879729e72ff5e96d8f02a380282eddf78fe998194c411a1e3b92646c9f6a567345d32a0de3675              597 main/binary-aarch64/Packages.gz
+ 38f981193dbc5f9f58ad2cb7bd81eee02afdd0af6a143653d9da3b703f773617c2ae597ab4f70fc82c53eebceef13fa946f6a640800ddd59d99a35c92bdc795f              223 Release
+ 1c1fb8d4fe8d37d345f14ca6303aedaa65ba480b1babbc8dd93e2ba3142ad32a98e5c667dd48753e79e7aacb833e87850626f56e652e229232680101aec373c1              911 main/binary-aarch64/Packages
+ b84fc4658642191bdb18e57288cec132776e8806ffa833b94bcf83ca08286f5f3e87c1844ce8c676cb7fc17c25aae98606de4849b213efea402bd06d2e051016              606 main/binary-aarch64/Packages.gz
