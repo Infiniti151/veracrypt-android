@@ -1,6 +1,8 @@
 # veracrypt-android
 
 [![Build](https://img.shields.io/github/actions/workflow/status/Infiniti151/veracrypt-android/build.yml?branch=main\&style=for-the-badge\&logo=github-actions\&logoColor=white\&label=Build)](https://github.com/Infiniti151/veracrypt-android/actions/workflows/build.yml) [![Android](https://img.shields.io/badge/Android-9%E2%80%9317-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Infiniti151/veracrypt-android) [![License](https://img.shields.io/github/license/Infiniti151/veracrypt-android?style=for-the-badge&logo=spdx&logoColor=white&color=yellow&label=License)](https://github.com/Infiniti151/veracrypt-android/blob/main/LICENSE)
+>[!note]
+> Veracrypt is now officially available in Termux. Install it with `pkg install x11-repo && pkg install veracrypt`.
 
 [VeraCrypt](https://github.com/veracrypt/VeraCrypt) is a tool for creating and accessing VeraCrypt-encrypted volumes and containers on Windows, Linux, and other Unix-like systems. This project provides VeraCrypt cross-compiled for Android ARM64 and packaged for [Termux](https://termux.dev/).
 
